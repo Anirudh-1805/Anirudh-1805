@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudhan R</h1>
 <h3 align="center">Solving real-world problems through applied AI, machine learning, and intelligent automation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-1805&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-1805" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://myportfoliowebsiteanirudhan.netlify.app/](https://myportfoliowebsiteanirudhan.netlify.app/)
 
 - 📫 How to reach me **anirudh2005.1805@gmail.com**
